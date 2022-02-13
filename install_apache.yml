@@ -28,4 +28,4 @@
         dest: /var/anw/htel/index.html
         mode: 0644
         owner: apache
-        group: opache
+        group: apache
